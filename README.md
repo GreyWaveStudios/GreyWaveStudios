@@ -12,8 +12,6 @@ I go by **Grey_0x1**—a tag that reflects my ethos:
 - 🧠 _Greyhat_ — free from evil, free from law. Guided by curiosity and consequence.  
 - 🔥 _0x1_ — Hex of One. Sun-ruled, victory-coded. A spark, not a shadow.
 
-Across platforms, I mutate as **GreyVortex**, with suffixes like `_dev` and `_anon` depending on the mission. My studio alias is **GreyWaveStudio**, where projects ripple across domains and dimensions.
-
 ---
 
 ### 🛠️ What I Do
