@@ -1,11 +1,42 @@
-- 👋 Hi, I’m @GreyWaveStudios
-- 👀 I’m interested in Cybersecurity, Programming, Robotics, And all kind of Low Level Stuff...
-- 🌱 I’m currently learning Low Level Programming...
-- 💞️ I’m prefer to work alone, and without any team...
-- 📫 Anyone can reach me via discord...
-- 💀 I am a Greyhat and hacktivist and support free speech digitally and do not prefer working under any org or company... 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am not only interested in tech but also in philosophy, In short i am intereted to learn anything at its lowest level which means micro to macro...
+<h1 align="center">🌞 Grey_0x1 🌑</h1>
+<p align="center">
+  <strong>✨ aka GreyVortex_dev | Founder of GreyWaveStudio | Founder of The Phantom Project</strong><br>
+  <em>Greyhat dreamer. Self-ruled. Builder of systems from silicon to stars.</em>
+</p>
+
+---
+
+### 🌌 Who Am I?
+
+I go by **Grey_0x1**—a tag that reflects my ethos:  
+- 🧠 _Greyhat_ — free from evil, free from law. Guided by curiosity and consequence.  
+- 🔥 _0x1_ — Hex of One. Sun-ruled, victory-coded. A spark, not a shadow.
+
+Across platforms, I mutate as **GreyVortex**, with suffixes like `_dev` and `_anon` depending on the mission. My studio alias is **GreyWaveStudio**, where projects ripple across domains and dimensions.
+
+---
+
+### 🛠️ What I Do
+
+I’m not here to work under anyone—I’m here to build.  
+Whether it's apps, AI systems, or experimental devices, I’m sculpting my own domain and launching my own legacy.
+
+I traverse:
+- 🧮 **Computer Science, Math & Physics**
+- 🛡️ **Cybersecurity & Low-Level Systems**
+- 🤖 **Electronics, Robotics, Rockets & Space**
+- 🚗 **Automobile Engineering & Simulations**
+- 🌐 **Web Development** (solo dev life demands frontend, too!)
+
+Languages I code in:
+- 💬 Python, C, C++, Rust  
+- 🧩 Web: JavaScript, React, CSS  
+
+---
+
+### 🌱 Always Evolving
+
+Currently, I'm deep-diving into Web3, chasing performance, elegance, and autonomy.
 
 <!---
 GreyWaveStudios/GreyWaveStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
