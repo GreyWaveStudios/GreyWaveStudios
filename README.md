@@ -26,7 +26,7 @@ I traverse:
 - 🚗 **Automobile Engineering & Simulations**
 - 🌐 **Web Development** (solo dev life demands frontend, too!)
 
-- Programming Languages
+### Programming Languages
   
 <img width="50" height="50" alt="img icons8" src="https://github.com/user-attachments/assets/19d96703-b3b4-4eb2-8dcd-c6416042f558" />
 
