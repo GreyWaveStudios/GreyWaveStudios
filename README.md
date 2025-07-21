@@ -26,9 +26,17 @@ I traverse:
 - 🚗 **Automobile Engineering & Simulations**
 - 🌐 **Web Development** (solo dev life demands frontend, too!)
 
-Languages I code in:
-- 💬 Python, C, C++, Rust  
-- 🧩 Web: JavaScript, React, CSS  
+- Programming Languages
+  
+<img width="50" height="50" alt="img icons8" src="https://github.com/user-attachments/assets/19d96703-b3b4-4eb2-8dcd-c6416042f558" />
+
+<img width="50" height="50" alt="img icons8" src="https://github.com/user-attachments/assets/01494f57-6d6e-4f99-bbd4-21b371fc0207" />
+
+<img width="50" height="50" alt="img icons8" src="https://github.com/user-attachments/assets/21b11509-f853-43e1-8717-b7be3673a30e" />
+
+<img width="50" height="50" alt="img icons8" src="https://github.com/user-attachments/assets/448c3150-9952-40c1-916b-7d51a4f75454" />
+
+<img width="50" height="50" alt="img icons8" src="https://github.com/user-attachments/assets/511853a3-1ec2-4e7d-adee-815112edb3dc" />
 
 ---
 
